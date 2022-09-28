@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Stellar Mammals - Take Life Chill
     button: Listen on Spotify
-    body: "<div class="album-cover-styles"><img src="/assets/img/take-life-chill-album-cover.png" alt=""></div>"
+    body: "<div class='album-cover-styles'><img src='assets/img/take-life-chill-album-cover.png' alt=''></div>"
     buttonlink: "https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g"
 
   about:
