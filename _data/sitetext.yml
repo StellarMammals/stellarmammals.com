@@ -18,7 +18,7 @@ en: &DEFAULT_EN
   about:
     title: "Take Life Chill by Stellar Mammals"
     text: "My First Album Release - Ambient relaxing music for focus and chill. Soundscapes for contemplation and sleep."
-    body: "Listen on <a href='https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g'>Spotify</a>, <a href='https://music.apple.com/us/artist/stellar-mammals/1646024717'>Apple Music / iTunes</a>, <a href='https://www.youtube.com/channel/UCl1gNok08PHcloaxWHNVd7Q/'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/take-life-chill-stellar-mammals-album.html'>Read Album Release and Production Notes</a>."
+    body: "<img src='../assets/img/take-life-chill-stellar-mammals-album-cover.jpg'><br/> Listen on <a href='https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g'>Spotify</a>, <a href='https://music.apple.com/us/artist/stellar-mammals/1646024717'>Apple Music / iTunes</a>, <a href='https://www.youtube.com/channel/UCl1gNok08PHcloaxWHNVd7Q/'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/take-life-chill-stellar-mammals-album.html'>Read Album Release and Production Notes</a>."
     section: about
 
   footer:
