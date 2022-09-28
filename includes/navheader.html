@@ -52,7 +52,7 @@
       <div class="intro-text">
 	  {%- if site.data.sitetext[site.locale].header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
-        <div class="album-cover-styles"><img src="assets/img/take-life-chill-stellar-mammals-album-cover.jpg" alt=""></div>
+        <div class="album-cover-styles"><img src="{{ site.baseurl }}{{ site.data.sitetext[site.locale].header.album-pic }}" class="user-image" alt="Album Cover"></div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
@@ -69,7 +69,7 @@
       <div class="intro-text">
 	  {%- if site.data.sitetext.header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
-        <div class="album-cover-styles"><img src="assets/img/take-life-chill-stellar-mammals-album-cover.jpg" alt=""></div>
+        <div class="album-cover-styles"><img src="{{ site.baseurl }}{{ site.data.sitetext[site.locale].header.album-pic }}" class="user-image" alt="Album Cover"></div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
