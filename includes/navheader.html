@@ -52,7 +52,7 @@
       <div class="intro-text">
 	  {%- if site.data.sitetext[site.locale].header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
-        <div class="album-cover-styles"><img src="{{ site.baseurl }}{{ site.data.sitetext[site.locale].header.album-pic }}" class="user-image" alt="Album Cover"></div>
+        <div class="album"></div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
@@ -73,6 +73,7 @@
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
+        <div class="album"></div>
 	  {%- endif -%}
     <div class="album-cover-styles">{{ site.data.sitetext.header.body | markdownify }}</div>
 	  {%- if site.data.sitetext.header.button -%}
