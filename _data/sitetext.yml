@@ -12,6 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Stellar Mammals - Take Life Chill
+    body: "<a href='https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g'><img src='../assets/img/take-life-chill-stellar-mammals-album-cover.jpg'></a>"
     button: Listen on Spotify
     buttonlink: "https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g"
 

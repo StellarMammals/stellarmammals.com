@@ -72,7 +72,7 @@
 	  {%- if site.data.sitetext.header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
 	  {%- endif -%}
-    {%- if site.data.sitetext[site.locale].header.body -%}
+    {%- if site.data.sitetext.header.body -%}
         <div>{{ site.data.sitetext.header.body | markdownify }}</div>
     {%- endif -%}
 	  {%- if site.data.sitetext.header.text -%}
