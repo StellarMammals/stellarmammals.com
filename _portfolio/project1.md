@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Album Cover Art
+subtitle: Stellar Mammals - Take Life Chilll 
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Stellar Mammals relaxing at the beach
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Stellar Mammals - Take Life Chilll
+  subtitle: Album Cover Art
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Album cover art for "Take Life Chill" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g'>Spotify</a>, <a href='https://music.apple.com/us/artist/stellar-mammals/1646024717'>Apple Music / iTunes</a>, <a href='https://www.youtube.com/channel/UCl1gNok08PHcloaxWHNVd7Q/'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/take-life-chill-stellar-mammals-album.html'>Read Album Release and Production Notes
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: Sept, 23, 2022
+- Client: Album Cover Art
+- Category: Album Cover Art
 
