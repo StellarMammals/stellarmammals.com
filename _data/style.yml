@@ -2,6 +2,7 @@
 #highlight: "#54bfff"
 #white: "#FF0000"
 #black: "#000"
+primary: "#46cbbe"
 
 #Image Customization
 header-image: "../img/background_cover_01.jpg"
