@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Art Among the Cacti - A Venice Art Crawl 2022 Event
-permalink: /VeniceArtCrawl/
+permalink: /veniceartcrawl/
 ---
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Art Among the Cacti - A Venice Art Crawl 2022 Event</h2>
