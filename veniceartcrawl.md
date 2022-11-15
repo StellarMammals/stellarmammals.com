@@ -7,7 +7,7 @@ permalink: /veniceartcrawl/
 	<h2 class="section-heading text-uppercase">Art Among the Cacti - A Venice Art Crawl 2022 Event</h2>
 </div>
 
-![Venice Art Crawl - 2022 Abbot Kinney Blvd](/assets/img/art-among-cacti-venice-art-crawl-2022.jpg)
+![Venice Art Crawl - 2022 Abbot Kinney Blvd](assets/img/art-among-cacti-venice-art-crawl-2022.jpg)
 
 Join us for an evening of art and music amongst the cacti. 
 
