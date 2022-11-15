@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://stellarmammals.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/"
+baseurl: "https://stellarmammals.com/"
 # baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Stellar Mammals
