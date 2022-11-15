@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Art Among the Cacti - A Venice Art Crawl 2022 Event
 permalink: /veniceartcrawl/
 ---
