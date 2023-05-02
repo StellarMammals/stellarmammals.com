@@ -12,14 +12,14 @@
 en: &DEFAULT_EN
   header:
     title: For Flow-inducing doings. Thoughtful beats. Relaxing ambient.
-    body: "<a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA'><img src='../assets/img/symbolic-wonderlands-stellar-mammals-album-cover.jpg'></a>"
+    body: "<a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA'><img src='../assets/img/portfolio/symbolic-wonderlands-stellar-mammals-album-cover.jpg'></a>"
     button: Listen on Spotify
     buttonlink: "https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA"
 
   about:
     title: "Symbolic Wonderlands by Stellar Mammals"
     text: "Energizing lofi beats for flow and concentrated, distraction-free doings"
-    body: "<a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA'><img style='width: 100%; max-width: 450px;' src='../assets/img/symbolic-wonderlands-stellar-mammals-album-cover.jpg'></a><br/> <br/> Listen on <a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=EGHRlSO7SvaMih-qn-KwOQ'>Spotify</a>, <a href='https://music.apple.com/us/album/symbolic-wonderlands/1682611327'>Apple Music</a>, <a href='http://www.amazon.com/gp/product/B0C2JJLT3S'>Amazon Music</a>, <a href='https://www.youtube.com/watch?v=9YM4sJW8Mkw&list=OLAK5uy_naKdI5m6eogDwSAupNqbQqONk34V7CBvw'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/symbolic-wonderlands-stellar-mammals-album.html'>Read Album Release and Production Notes</a>"
+    body: "<a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA'><img style='width: 100%; max-width: 450px;' src='../assets/img/portfolio/symbolic-wonderlands-stellar-mammals-album-cover.jpg'></a><br/> <br/> Listen on <a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=EGHRlSO7SvaMih-qn-KwOQ'>Spotify</a>, <a href='https://music.apple.com/us/album/symbolic-wonderlands/1682611327'>Apple Music</a>, <a href='http://www.amazon.com/gp/product/B0C2JJLT3S'>Amazon Music</a>, <a href='https://www.youtube.com/watch?v=9YM4sJW8Mkw&list=OLAK5uy_naKdI5m6eogDwSAupNqbQqONk34V7CBvw'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/symbolic-wonderlands-stellar-mammals-album.html'>Read Album Release and Production Notes</a>"
     section: about
 
   footer:
