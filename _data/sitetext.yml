@@ -22,12 +22,6 @@ en: &DEFAULT_EN
     body: "<a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA'><img style='width: 100%; max-width: 450px;' src='../assets/img/symbolic-wonderlands-stellar-mammals-album-cover.jpg'></a><br/> <br/> Listen on <a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=EGHRlSO7SvaMih-qn-KwOQ'>Spotify</a>, <a href='https://music.apple.com/us/album/symbolic-wonderlands/1682611327'>Apple Music</a>, <a href='http://www.amazon.com/gp/product/B0C2JJLT3S'>Amazon Music</a>, <a href='https://www.youtube.com/watch?v=9YM4sJW8Mkw&list=OLAK5uy_naKdI5m6eogDwSAupNqbQqONk34V7CBvw'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/symbolic-wonderlands-stellar-mammals-album.html'>Read Album Release and Production Notes</a>"
     section: about
 
-  about2:
-    title: "Take Life Chill by Stellar Mammals"
-    text: "Ambient relaxing music for flow, focus and chill. Soundscapes for contemplation and sleep."
-    body: "<a href='https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g'><img style='width: 100%; max-width: 450px;' src='../assets/img/take-life-chill-stellar-mammals-album-cover.jpg'></a><br/> <br/> Listen on <a href='https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g'>Spotify</a>, <a href='https://music.apple.com/us/artist/stellar-mammals/1646024717'>Apple Music / iTunes</a>, <a href='https://youtube.com/playlist?list=OLAK5uy_njWwlVtXjPg9VHoWGSpMJwOgkBOg0Z77c'>YouTube Music</a>, <a href=''>Amazon Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/take-life-chill-stellar-mammals-album.html'>Read Album Release and Production Notes</a>."
-    section: about
-
   footer:
     legal: "Privacy Policy"
     social:
