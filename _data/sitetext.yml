@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Ambient Music for Flow-inducing doings
-    body: "<a href='https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g'><img src='../assets/img/take-life-chill-stellar-mammals-album-cover.jpg'></a>"
+    title: For Flow-inducing doings. Thoughtful beats. Relaxing ambient.
+    body: "<a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA'><img src='../assets/img/symbolic-wonderlands-stellar-mammals-album-cover.jpg'></a>"
     button: Listen on Spotify
-    buttonlink: "https://open.spotify.com/album/65KtpNGAO4VeGQIZCqdGOJ?si=YxmXl7wvTd6CeoYmW8dS9g"
+    buttonlink: "https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=y5PpLkytQZyi1J7ZeWphrA"
 
   about:
     title: "Symbolic Wonderlands by Stellar Mammals"
