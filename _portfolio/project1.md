@@ -1,12 +1,12 @@
 ---
 title: Album Release
-subtitle: Stellar Mammals - Symbolic Wonderlands 
-image: assets/img/portfolio/symbolic-wonderlands-stellar-mammals-album-cover.jpg
-alt: Stellar Mammals interstellar spaceman musician explorer
+subtitle: Stellar Mammals - Cosmic Coastlines
+image: assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover.jpg
+alt: Stellar Mammals coastlines cosmic album art
 
 caption:
-  title: Stellar Mammals - Symbolic Wonderlands
+  title: Stellar Mammals - Cosmic Coastlines
   subtitle: Music Album + Cover Art
-  thumbnail: assets/img/portfolio/symbolic-wonderlands-stellar-mammals-album-cover-thumbnail.jpg
+  thumbnail: assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover-thumbnail.jpg
 ---
-Album cover art for "Symbolic Wonderlands" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/1E5P1sZQ3glLRHbxMt1wiM?si=EGHRlSO7SvaMih-qn-KwOQ'>Spotify</a>, <a href='https://music.apple.com/us/album/symbolic-wonderlands/1682611327'>Apple Music</a>, <a href='http://www.amazon.com/gp/product/B0C2JJLT3S'>Amazon Music</a>, <a href='https://www.youtube.com/watch?v=9YM4sJW8Mkw&list=OLAK5uy_naKdI5m6eogDwSAupNqbQqONk34V7CBvw'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/symbolic-wonderlands-stellar-mammals-album.html'>Read Album Release and Production Notes</a>. 
+Album cover art for "Cosmic Coastlines" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=iMfMTw6tRymLnDFMMiEuaA'>Spotify</a>, <a href='https://music.apple.com/us/album/cosmic-coastlines/1706417025'>Apple Music</a>, <a href='https://music.amazon.com/albums/B0CHJVVFKM'>Amazon Music</a>, <a href='https://music.youtube.com/playlist?list=OLAK5uy_mgn683exsUYj13VOLqXu_2kBwSxWBMH4s&si=4wbrBvnawII7Bzx9'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='#'>Read Album Release and Production Notes</a>. 
