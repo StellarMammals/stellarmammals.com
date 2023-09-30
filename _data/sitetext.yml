@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "Cosmic Coastlines by Stellar Mammals"
     text: "Music for creatives. Energizing lofi beats for flow and concentrated, distraction-free doings."
-    body: "<a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=h79t0xr0SX2V9itvjSKg_g'><img style='width: 100%; max-width: 450px;' src='../assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover.jpg'></a><br/> <br/> Listen on <a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=h79t0xr0SX2V9itvjSKg_g'>Spotify</a>, <a href='#'>Apple Music</a>, <a href='#'>Amazon Music</a>, <a href='#'>YouTube Music</a> and other streaming platforms. <br /> <br /> <em>Liner Notes Coming Soon</em>"
+    body: "<a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=h79t0xr0SX2V9itvjSKg_g'><img style='width: 100%; max-width: 450px;' src='../assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover.jpg'></a><br/> <br/> Listen on <a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=h79t0xr0SX2V9itvjSKg_g'>Spotify</a>, <a href='https://music.apple.com/us/album/cosmic-coastlines/1706417025'>Apple Music</a>, <a href='https://music.amazon.com/albums/B0CHJVVFKM'>Amazon Music</a>, <a href='https://music.youtube.com/playlist?list=OLAK5uy_mgn683exsUYj13VOLqXu_2kBwSxWBMH4s&si=4wbrBvnawII7Bzx9'>YouTube Music</a> and other streaming platforms. <br /> <br /> <em>Liner Notes Coming Soon</em>"
     section: about
 
   footer:
