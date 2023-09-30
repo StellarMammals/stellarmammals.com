@@ -2,7 +2,7 @@
 title: Single Release
 subtitle: Stellar Mammals - Bellini-Tosi
 image: assets/img/portfolio/Bellini–Tosi-stellar-mammals-single-cover.jpg
-alt: Stellar Mammals girl looking out at stars
+alt: Stellar Mammals stars in purple night
 
 caption:
   title: Stellar Mammals - Bellini-Tosi
