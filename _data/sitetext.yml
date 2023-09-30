@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=iMfMTw6tRymLnDFMMiEuaA"
 
   about:
-    title: "Cosmic Coastlines [Album #3] by Stellar Mammals"
+    title: "Cosmic Coastlines (Album No. 3) by Stellar Mammals"
     text: "Energizing lofi beats for flow and concentrated, distraction-free doings"
     body: "<a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=iMfMTw6tRymLnDFMMiEuaA'><img style='width: 100%; max-width: 450px;' src='../assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover.jpg'></a><br/> <br/> Album cover art for "Cosmic Coastlines" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=iMfMTw6tRymLnDFMMiEuaA'>Spotify</a>, <a href='https://music.apple.com/us/album/cosmic-coastlines/1706417025'>Apple Music</a>, <a href='https://music.amazon.com/albums/B0CHJVVFKM'>Amazon Music</a>, <a href='https://music.youtube.com/playlist?list=OLAK5uy_mgn683exsUYj13VOLqXu_2kBwSxWBMH4s&si=4wbrBvnawII7Bzx9'>YouTube Music</a> and other streaming platforms."
     section: about
