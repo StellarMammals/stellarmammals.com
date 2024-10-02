@@ -1,12 +1,12 @@
 ---
 title: Single Release
-subtitle: Stellar Mammals - Undercurrents
-image: assets/img/portfolio/undercurrents-stellar-mammals-single-cover.jpg
-alt: Stellar Mammals globe coral reef stars
+subtitle: Stellar Mammals - Bellini-Tosi
+image: assets/img/portfolio/Bellini–Tosi-stellar-mammals-single-cover.jpg
+alt: Stellar Mammals stars in purple night
 
 caption:
-  title: Stellar Mammals - Undercurrents
+  title: Stellar Mammals - Bellini-Tosi
   subtitle: Music Single + Cover Art
-  thumbnail: assets/img/portfolio/undercurrents-stellar-mammals-single-cover-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Bellini–Tosi-stellar-mammals-single-cover-thumbnail.jpg
 ---
-Cover art for "Undercurrents" by Stellar Mammals. Listen on <a href='https://open.spotify.com/track/7A5bwBwCr8kmChcxxddUnv?si=d973bab766334fa5'>Spotify</a>, Apple Music, Amazon Music, YouTube Music and other streaming platforms. <br /> <br /> 
+Cover art for "Bellini-Tosi" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/7b2VqKIVF4uAEvr7D6TIDW?si=MoEgdkuoRxKNjZ4MIu3RfQ'>Spotify</a>, Apple Music, Amazon Music, YouTube Music and other streaming platforms. <br /> <br /> 

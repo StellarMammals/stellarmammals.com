@@ -1,12 +1,12 @@
 ---
 title: Single Release
-subtitle: Stellar Mammals - Unlocked Dreamstate
-image: assets/img/portfolio/unlocked-dreamstate-stellar-mammals-single-cover.jpg
-alt: Stellar Mammals girl looking out at stars
+subtitle: Stellar Mammals - Hopeful Spirits
+image: assets/img/portfolio/Hopeful-Spirts-stellar-mammals-single-cover.jpg
+alt: Stellar Mammals globe of fish and coral with stars
 
 caption:
-  title: Stellar Mammals - Unlocked Dreamstate
+  title: Stellar Mammals - Hopeful Spirits
   subtitle: Music Single + Cover Art
-  thumbnail: assets/img/portfolio/unlocked-dreamstate-stellar-mammals-single-cover-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Hopeful-Spirts-stellar-mammals-single-cover-thumbnail.jpg
 ---
-Cover art for "Unlocked Dreamstate" by Stellar Mammals. Listen on <a href='https://open.spotify.com/track/4lGbME6zqRKoFJ87j0Mj6X?si=a504758d7cb148f5'>Spotify</a>, Apple Music, Amazon Music, YouTube Music and other streaming platforms. <br /> <br /> 
+Cover art for "Hopeful Spirits" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/6M8hmCwYpEShvpfj4tazTC?si=fr8-QuHiR2qVvrwsddRCPg'>Spotify</a>, Apple Music, Amazon Music, YouTube Music and other streaming platforms. <br /> <br /> 

@@ -1,13 +1,12 @@
 ---
-title: Flow Music Spotify Playlist
-subtitle: Music for Focus
-image: assets/img/portfolio/Flow-Music-Playlist-Cover.png
-alt: Flow Music Playlist on Spotify Cover
+title: Single Release
+subtitle: Stellar Mammals - The Maze
+image: assets/img/portfolio/the-maze-stellar-mammals-single-cover.jpg
+alt: Stellar Mammals astral brain explorer
 
 caption:
-  title: Flow Music Spotify Playlist
-  subtitle: Music for Focus
-  thumbnail: assets/img/portfolio/Flow-Music-Playlist-Cover-Thumbnail.png
+  title: Stellar Mammals - The Maze
+  subtitle: Music Single + Cover Art
+  thumbnail: assets/img/portfolio/the-maze-stellar-mammals-single-cover-thumbnail.jpg
 ---
-
-Listen on <a href="https://open.spotify.com/playlist/3Fzrf3oc3SGotYqrAMGXr4?si=bc36affb4be3474b">Spotify</a>. Get into flow. Ambient relaxing music for focus, chill, and flow-enducing doings. It's Distraction-Free Deep Work Time
+Cover art for "The Maze" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/0ag9WX5xLJH8WL7GsQJOtX?si=a3pDVidISdC7DDA-LdpY_g'>Spotify</a>, <a href='https://music.apple.com/us/album/the-maze-single/1677140064'>Apple Music</a>, <a href='https://www.amazon.com/music/player/albums/B0BYFDCK6L'>Amazon Music</a>, <a href='https://www.youtube.com/watch?v=ZG9KclAWk6M&list=OLAK5uy_ncgmct3mT_Ir9ZjLN5giDyTLoqWkj7oOM'>YouTube Music</a> and other streaming platforms. <br /> <br /> 

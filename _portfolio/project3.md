@@ -1,12 +1,12 @@
 ---
-title: Single Release
-subtitle: Stellar Mammals - Bellini-Tosi
-image: assets/img/portfolio/Bellini–Tosi-stellar-mammals-single-cover.jpg
-alt: Stellar Mammals stars in purple night
+title: Album Release
+subtitle: Stellar Mammals - Cosmic Coastlines
+image: assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover.jpg
+alt: Stellar Mammals coastlines cosmic album art
 
 caption:
-  title: Stellar Mammals - Bellini-Tosi
-  subtitle: Music Single + Cover Art
-  thumbnail: assets/img/portfolio/Bellini–Tosi-stellar-mammals-single-cover-thumbnail.jpg
+  title: Stellar Mammals - Cosmic Coastlines
+  subtitle: Music Album + Cover Art
+  thumbnail: assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover-thumbnail.jpg
 ---
-Cover art for "Bellini-Tosi" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/7b2VqKIVF4uAEvr7D6TIDW?si=MoEgdkuoRxKNjZ4MIu3RfQ'>Spotify</a>, Apple Music, Amazon Music, YouTube Music and other streaming platforms. <br /> <br /> 
+Album cover art for "Cosmic Coastlines" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=iMfMTw6tRymLnDFMMiEuaA'>Spotify</a>, <a href='https://music.apple.com/us/album/cosmic-coastlines/1706417025'>Apple Music</a>, <a href='https://music.amazon.com/albums/B0CHJVVFKM'>Amazon Music</a>, <a href='https://music.youtube.com/playlist?list=OLAK5uy_mgn683exsUYj13VOLqXu_2kBwSxWBMH4s&si=4wbrBvnawII7Bzx9'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='http://www.markwk.com/stardust-and-dreams-stellar-mammals-album.html'>Read Album Release and Production Notes</a>. 

@@ -1,12 +1,12 @@
 ---
 title: Album Release
-subtitle: Stellar Mammals - Cosmic Coastlines
-image: assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover.jpg
-alt: Stellar Mammals coastlines cosmic album art
+subtitle: Chop Wood, Carry Water - Stellar Mammals and Jacob Burgdorf
+image: assets/img/portfolio/chop-wood-carry-water--stellar-mammals-album-cover.jpg
+alt: Stellar Mammals Chop Wood Carry Water album art
 
 caption:
   title: Stellar Mammals - Cosmic Coastlines
   subtitle: Music Album + Cover Art
-  thumbnail: assets/img/portfolio/cosmic-coastlines-stellar-mammals-album-cover-thumbnail.jpg
+  thumbnail: assets/img/portfolio/chop-wood-carry-water--stellar-mammals-album-cover-thumbnail.jpg
 ---
-Album cover art for "Cosmic Coastlines" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/4QJ2CN3jM179MK92TenUwy?si=iMfMTw6tRymLnDFMMiEuaA'>Spotify</a>, <a href='https://music.apple.com/us/album/cosmic-coastlines/1706417025'>Apple Music</a>, <a href='https://music.amazon.com/albums/B0CHJVVFKM'>Amazon Music</a>, <a href='https://music.youtube.com/playlist?list=OLAK5uy_mgn683exsUYj13VOLqXu_2kBwSxWBMH4s&si=4wbrBvnawII7Bzx9'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='#'>Read Album Release and Production Notes</a>. 
+Album cover art for "Chop Wood, Carry Water" by Stellar Mammals. Listen on <a href='https://open.spotify.com/album/5ygTiRD5rzGDgFdxbx3Ev4?si=NeCvjNqmTcO1fUAEJYzf0w'>Spotify</a>, <a href='https://music.apple.com/us/album/chop-wood-carry-water/1766902448'>Apple Music</a>, <a href='https://music.amazon.com/albums/B0DG4ZPB4V'>Amazon Music</a>, <a href='https://music.youtube.com/playlist?list=OLAK5uy_nYZbkZK7ls_XaaOCyBZNP51NCAZeqHTv0'>YouTube Music</a> and other streaming platforms. <br /> <br /> <a href='#'>Read Album Release and Production Notes</a>. 
