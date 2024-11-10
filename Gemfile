@@ -1,7 +1,10 @@
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
 
+gem "jekyll", "~> 4.2.0"
 gem "jekyll-remote-theme"
+gem "kramdown-parser-gfm"
+gem "webrick"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
